@@ -1,0 +1,85 @@
+{
+	"resume": {
+		"landing-page": {
+			"name": {
+				"first": "Matthew",
+				"last": "Eldredge"
+			},
+			"role": "Engineer",
+			"linked-in": "https://www.linkedin.com/in/meldredge/",
+			"github": "https://github.com/tcb1978",
+			"technologies": [
+				"React.js",
+				"TypeScript",
+				"Next.js",
+				"JavaScript",
+				"GraphQL",
+				"Tailwind",
+				"CSS",
+				"Cypress",
+				"Mocha",
+				"Jest",
+				"Express.js",
+				"Node.js",
+				"Postgres"
+			],
+			"what-about": {
+				"heading": "What about Matthew?",
+				"paragraph": "Matthew is a technically sophisticated Front End Developer who excels at  creating clean, readable, and testable software solutions to rapidly evolving business problems. Matthew has a proven record of building, deploying, and maintaining complex web applications and architectures in a variety of platforms. Currently, he specializes in React.Js, Next.Js, JavaScript and NodeJS/ExpressJS with an emphasis on client-side development using React.Js. In his spare time, Matthew enjoys playing and recording music, writing, and cooking."
+			},
+			"what-are-people-saying": {
+				"heading": "What are people saying?",
+				"cited-by": [
+					{
+						"quotes": [
+							"Matt is a highly skilled frontend engineer. He was our teams go to for ensuring our components matched the designs our UX gave us and in a way that was intuitive and responsive. He ensured our site was developed with a focus on accessibility and enforced our mobile first design process.",
+							"Aside from development, Matt would also do many behind the scenes tasks even taking over for our EM when our EM went on paternity leave.",
+							"Overall Matt would make an amazing edition to any team."
+						],
+						"cite": "Mackenzie Revoyr",
+						"colleague-from": "Frontend Engineer at Boost Insurance",
+						"linkedin": "https://www.linkedin.com/in/mackenzie-revoyr-283231b7?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BKG0f3AEoQi%2BTwj0tHDweAw%3D%3D"
+					},
+					{
+						"quotes": [
+							"I worked with Matt for the past 4 months and I found that he is an outstanding front-end engineer who excels in time management and delivery.",
+							"He is an expert in React and JavaScript and consistently delivers high-quality projects. He has excellent communication skills and works well in a team environment, he is so polite and a dedicated professional.",
+							"He brings creative solutions and is always willing to share ideas to solve problems. In general, Matt would be an excellent addition as a front-end engineer who can work well in a team, consistently deliver high-quality work, and possess exceptional hard and soft skills."
+						],
+						"cite": "Rayssa Lima",
+						"colleague-from": "· UX Designer · UI Designer · Product Designer · Research · TechnologyUX Designer · UI Designer · Product Designer · Research · Technology",
+						"linkedin": "https://www.linkedin.com/in/rayssa-lima-475531155?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BKG0f3AEoQi%2BTwj0tHDweAw%3D%3D"
+					},
+					{
+						"quotes": [
+							"It’s always a pleasure working with Matty. I have been closely working with him on various projects for two years at American Express.",
+							"Matty is very dedicated and hardworking who always ensures to give his best in product delivery.",
+							"I truly admire him on his exceptional skills especially on React ,NodeJS. Matty mentored me on Various Occasions on react and Node js."
+						],
+						"cite": "Shandilya Maramraju",
+						"colleague-from": "Engineer at American Express",
+						"linkedin": "https://www.linkedin.com/in/shandilya-maramraju?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BKG0f3AEoQi%2BTwj0tHDweAw%3D%3D"
+					}
+				]
+			}
+		},
+		"resume-page": {
+			"experience": [
+				{
+					"company": "Boost Insurance",
+					"description": "Developed a highly-customizable, single-deployment, multi-tenant, direct-to-consumer pet insurance sales app with NextJS/React Typescript and Node.  Spearheaded styling, content, and configuration admin to configure the sales app to match partner branding. Championed schema-driven form library for rapid development of web forms Developed theme-able internal UI component library. Maintained legacy  application leveraged by prospective partners to quickly test integrations with  Boost's APIs.",
+					"location": "NY, NY",
+					"position": "Senior Engineer II",
+					"when": "Dec 2021 - Apr 2023"
+				},
+				{
+					"company": "American Express",
+					"description": "Developed Green Pasture FIntech UI for Small Businesses application journey between Amazon/American Express primarily in and React/Node for Germany and France markets. Development for Small Business Upgrades Applicants in Japan, Mexico, UK, and Australia markets, primarily in React/Node",
+					"location": "Phoenix, AZ",
+					"position": "Engineer",
+					"when": "Aug 2019 - Nov 2021"
+				}
+			]
+		}
+	}
+}
